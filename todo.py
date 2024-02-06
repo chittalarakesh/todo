@@ -15,5 +15,3 @@ if __name__=="__main__":
     todo_list.add_task("completed work")
     todo_list.add_task("writing the code")
     todo_list.add_task("learning the git")
-
-
